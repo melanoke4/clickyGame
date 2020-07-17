@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Killua",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_killua.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Gon",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_gon.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Kurapika",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_kurapika.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Leorio",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_leorio.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Hisoka",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_hisoka.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Chrollo",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_chrollo.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Shizuku",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_shizuku.jpg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Hina",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_hina.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Ging",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_ging_3.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Geru",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/geru2011_370423.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Wing",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_wing.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Eta",
+      "image": "https://static.tvtropes.org/pmwiki/pub/images/hxh_eta.png",
+      "count": 0
+    }
+  ]
